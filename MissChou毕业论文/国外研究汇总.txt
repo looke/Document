@@ -1,0 +1,177 @@
+------------------------------------------------------------------------------------------------
+研究方向细化，对特定方向展开研究，例如
+
+薪酬分配差异对离职倾向的影响
+
+Wei He  Li‐Rong Long 
+
+Workgroup Salary Dispersion and Turnover Intention in China: A Contingent Examination of Individual Differences and the Dual Deprivation Path Explanation
+
+First published: 23 January 2015
+
+
+Human Resource Management
+
+Volume55, Issue2
+March/April 2016
+Pages 301-320
+
+
+Abstract
+The present study generalizes previous pay dispersion research to the Chinese context by examining the cross‐level relationship 
+between workgroup salary dispersion and employee turnover intention contingent on individual differences. 
+Field survey data including annual objective salary and self‐reported attitudes among 370 Chinese employees in 51 organizational 
+workgroups supported our cultural predictions by showing that the relationship between workgroup salary dispersion and turnover intention
+was positive only among employees with higher rather than lower levels of Chinese traditionality and
+among those with lower rather than higher salary levels. Furthermore, the results of mediated moderation analyses 
+suggest that a dual‐deprivation path model can explain the above relationships. 
+We discuss the theoretical, cultural, and practical implications of these findings for organizations.
+
+Workgroup Salary Dispersion 薪酬分配差异
+
+Turnover Intention 离职倾向
+
+作者通过对51家企业370名员工的调查，研究薪酬分配差异与离职倾向的关联关系，并使用xxx模型对其关联关系进行了解释说明。
+作者指出，薪酬分配差异对于高层次人才中薪酬较低的人群影响较大，并从理论、文化、实践角度讨论了这一发现对企业人力资源管理的启示。
+
+https://onlinelibrary.wiley.com/doi/abs/10.1002/hrm.21674
+
+-----------------------------------------------------------------------------------------------
+
+薪酬差异对企业经营的影响
+
+Brian L. Connelly
+Minding the Gap: Antecedents and Consequences of Top Management-To-Worker Pay Dispersion
+Journal of Management
+Vol. 42 No. 4, May 2016 862–885
+
+Management researchers have long been concerned with the antecedents and consequences of
+managerial compensation. More recently, scholarly and popular attention has turned to the gap
+in pay between workers at the highest and lowest levels of the organization, or “pay dispersion.”
+This study investigates the performance implications of pay dispersion on a longitudinal
+(10-year) sample of publicly traded firms from multiple industries. We combine explanations
+based on tournament theory and equity theory to develop a model wherein pay dispersion has
+opposing effects on a firm’s short-term performance and their trend in performance over time.
+We also show that ownership is a key antecedent of pay dispersion. Specifically, transient institutional
+investors (who have short time horizons and equity stakes in a wide variety of firms)
+positively influence pay dispersion whereas dedicated institutional investors (who have longer
+investment time horizons and equity stakes in fewer firms) negatively influence pay dispersion.
+We discuss the wide-ranging implications of these findings for scholars, managers, and policy
+makers alike.
+
+作者通过分析多家上市企业10年以来积累的数据，对员工薪酬差异的影响因素进行了研究。作者基于锦标赛理论和公平理论，结合自己的分析结果，设计了对应的描述模型，指出薪酬差异对企业的短期和长期效益有负面影响。
+作者通过研究还发现，企业的所有制对薪酬差异有重要影响。短期机构投资者对薪酬差异的增长有正面影响，而长期机构投资者则对薪酬差异的增长有负面影响。
+
+
+
+-----------------------------------------------------------------------------------------------
+新技术在人力资源管理上的应用
+
+Dianna L.Stone
+The influence of technology on the future of human resource management
+
+Human Resource Management Review
+Volume 25, Issue 2, June 2015, Pages 216-231
+
+
+Abstract
+In recent years, information technology has had a profound effect on human resources (HR) processes and practices. 
+However, relatively little research has examined its effectiveness, 
+and most of the existing studies have not assessed the degree to which these new systems enable organizations to reach their HR goals 
+of attracting, motivating and retaining employees.
+ One reason for this is that there are a number of limitations associated with current systems including the fact that they: 
+(a) use one way communication systems, 
+(b) are impersonal and passive, 
+(c) do not always allow for interpersonal interaction, and 
+(d) often create an artificial distance between individuals and organizations. 
+Thus, the primary purposes of the present article are to review the current effects of technology on HR processes, 
+consider the existing literature on the topic, and discuss the advantages and potential limitations of using these systems. 
+In addition, we offer directions for future research and practice on using technology to facilitate HR processes.
+
+
+1. How has technology affected HR processes?
+2. Goal 1: Attracting a talented and diverse workforce
+3. Research on e-recruiting
+4. Limitations of e-recruiting and directions for the future
+5. Goal 2: Selecting talented and diverse employees
+5.1. Electronic job analysis
+5.2. Electronic job applications
+5.3. Electronic tests and personality inventories
+5.4. Electronic interviews
+6. Limitations of current e-selection systems and directions for the future
+7. Goal 3: Increasing the knowledge, skills, and abilities of employees
+8. Research on e-training and e-learning
+8.1. Training technology
+8.2. Training design
+8.3. Trainee characteristics
+9. Limitations of current approaches to e-training and future directions
+10. Goal 4: Managing and enhancing employee performance
+11. Research on e-PM
+11.1. Employee reactions to e-PM feedback
+11.2. Impact of e-PM on employee-supervisory relationships
+12. Limitations of e-PM and directions for the future
+13. Goal 5: Motivating and retaining talented employees with diverse backgrounds
+14. Research on e-Compensation systems
+15. Research on employee self-service systems (ESS)
+16. Limitations of e-compensation and ESS systems
+17. Conclusion and Perspectives on eHR
+18. Is the "real" goal of eHR "efficiency" or "effectiveness"?
+19. Does eHR result in a transaction-based versus relationship-based approach to employee management?
+References
+Hide outline
+
+
+
+Today, the field of Human Resource Management (HR) is experiencing numerous pressures for change. 
+Shifts in the economy, globalization, domestic diversity, and technology have created new demands for organizations, 
+and propelled the field in some completely new directions. 
+However, we believe that these challenges also create numerous opportunities for HR and organizations as a whole. 
+Thus, the primary purposes of this article are to 
+(a) examine some of the challenges and opportunities that should influence the future of HR, and 
+(b) provide an overview of the very interesting articles included in the special issue. 
+We also consider implications for future research and practice in the field.
+
+1. Change from a manufacturing to a service or knowledge economy
+2. Rise in globalization
+3. Growing domestic diversity
+3.1. Increased age and generational diversity
+3.2. Expanded ethnic diversity
+4. Emerging use of technology
+5. Overview of articles in special issue
+References
+
+信息技术的快速发展给人力资源管理实践带来了新的机遇。
+
+作者从吸引人才，筛选人才，技能培训，员工管理，员工激励五个方向，
+选取了在线招聘技术，基于大数据的职业分析及人格分析技术，新的在线培训技术，员工自助服务技术，在线福利管理系统等新的人力资源管理时间进行考察，分析了各个技术的优缺点和未来发展趋势。
+
+
+
+-------------------------------------------------------------------------
+多学科交叉，例如：心理学与薪酬管理和工作积极性的关联
+
+Hung-Wen Lee， Mei-Chun Lin
+A study of salary satisfaction and job enthusiasm – mediating effects of psychological contract
+
+Journal
+Applied Financial Economics 
+Volume 24, 2014 - Issue 24
+
+Abstract
+This article aims to explore the relationship among salary satisfaction, psychological contracts and job enthusiasm. 
+Quantity research method was employed in this study. To verify the relationship, Correlation and Regression were adopted. 
+First, salary satisfaction has significant effects on psychological contract; 
+second, psychological contract has significant effects on job enthusiasm; 
+third, salary satisfaction has a significant effect on job enthusiasm; 
+and fourth, psychological contract has mediating effects between salary satisfaction and job enthusiasm.
+This study proved that the relationships between employees’salary satisfaction and psychological contract and job enthusiasm are significant.
+The fairness-based salary is partially significantly correlated to psychological contract, indicating employees care about reasonable salary mechanism, 
+motivating human resource strategy, appropriate reward system and available communication channels. 
+When employees sense their salary is lower than the market average, they will have unsatisfactory feelings, 
+make less effort to the organization and feel tired or want to leave the job. 
+Therefore, business should conduct salary survey regularly, understand the average salary in the market and adjust salary mechanism based on the organization’s financial status.
+
+
+作者使用相关分析与回归分析法定量分析了薪酬满意度、心理契约作用以及工作积极性三者的关联关系，指出心理契约作用在薪酬满意度与工作积极性之间起到重要的中介作用。
+作者还建议企业要及时掌握员工对薪酬的满意度，根据市场及企业财务状况时调整薪酬机制，以保证员工的工作积极性。
+
